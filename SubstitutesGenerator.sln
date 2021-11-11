@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstitutesGenerator.Analyz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstitutesGenerator.Analyzer.Test", "SubstitutesGenerator.Analyzer\SubstitutesGenerator.Analyzer.Test\SubstitutesGenerator.Analyzer.Test.csproj", "{97824946-AA0A-483C-9FAB-86AFF3AE13F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstitutesGenerator.Analyzer.Vsix", "SubstitutesGenerator.Analyzer\SubstitutesGenerator.Analyzer.Vsix\SubstitutesGenerator.Analyzer.Vsix.csproj", "{ED42B0C6-5A06-4C5F-9F9D-94040B13CAD8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{97824946-AA0A-483C-9FAB-86AFF3AE13F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97824946-AA0A-483C-9FAB-86AFF3AE13F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97824946-AA0A-483C-9FAB-86AFF3AE13F2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ED42B0C6-5A06-4C5F-9F9D-94040B13CAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED42B0C6-5A06-4C5F-9F9D-94040B13CAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED42B0C6-5A06-4C5F-9F9D-94040B13CAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED42B0C6-5A06-4C5F-9F9D-94040B13CAD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
